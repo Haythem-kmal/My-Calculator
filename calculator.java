@@ -1,7 +1,7 @@
 /**
  * IMPORTANT: Make sure you are using the correct package name.
  * This example uses the package name:
- * package com.example.android.justjava
+ * package com.example.android.calculator
  * If you get an error when copying this code into Android studio, update it to match teh package name found
  * in the project's AndroidManifest.xml file.
  **/
